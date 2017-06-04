@@ -8,6 +8,9 @@
 !*.eps
 !*.png
 !*.pdf
+!*.ipynb
+!*.py
+!*.md
 
 # ...even if they are in subdirectories
 !*/
